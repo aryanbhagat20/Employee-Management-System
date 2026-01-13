@@ -1,6 +1,11 @@
 # Employee Management System 🚀  
 A **Spring Boot**-based **Employee Management System** that allows organizations to manage employee records efficiently. It provides functionalities for adding, updating, deleting, and viewing employee details in a structured manner.  
 
+[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-blue.svg)](https://www.mysql.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Features  
 ✅ Add new employees with details (name, department, salary, etc.)  
 ✅ Update existing employee information  
